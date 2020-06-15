@@ -19,4 +19,4 @@ These are the steps that we need to follow and create resources in AWS,
 
 8. Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html
 
- ![Article link](https://www.linkedin.com/pulse/terraform-deployment-complete-automation-using-jenkins-vikas-verma)
+ [Article link](https://www.linkedin.com/pulse/terraform-deployment-complete-automation-using-jenkins-vikas-verma)
